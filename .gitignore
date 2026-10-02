@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# pastas de saída geradas pelos scripts
+diagnostico/
+qc/
+saida/
